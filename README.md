@@ -25,5 +25,5 @@ To use the interpreter, follow these steps:
 2. Write your custom commands in the script file using the supported syntax.
 3. Use the `interpret()` method of the `MyPythonInterpreter` class to execute the script file.
 
-## in comand line 
+## in command line 
 'python run_interpreter.py <text.txt>'
