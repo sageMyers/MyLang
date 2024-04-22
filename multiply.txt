@@ -1,0 +1,6 @@
+input num
+input num2
+
+mult num num2 result
+
+writeL result

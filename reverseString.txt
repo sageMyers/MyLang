@@ -1,0 +1,2 @@
+input word
+reverse word

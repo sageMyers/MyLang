@@ -1,0 +1,20 @@
+def factorial(numb):
+if numb <= 1
+        return 1
+else:
+        return numb * factorial(numb - 1)
+
+input("This program calculates factorial. Press Enter to continue.")
+
+assign num input("Enter a non-negative integer to calculate its factorial: ")
+
+assign num int(num)
+
+if  num < 0
+    write("Error: Factorial is not defined for negative numbers.")
+else:
+    # Calculate factorial using the defined function
+    assign result factorial(num)
+    write(f"The factorial of {num} is: {result}")
+
+write("Program execution completed.")

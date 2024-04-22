@@ -1,0 +1,6 @@
+assign startValue 0
+input HowMany
+inputStr WhatStringYouWhatToRepeat
+while startValue < HowMany 1 WhatStringYouWhatToRepeat
+write "Loop finished."
+

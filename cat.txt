@@ -1,0 +1,2 @@
+input userinput
+writeL userinput
